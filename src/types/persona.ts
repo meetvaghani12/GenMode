@@ -1,0 +1,1 @@
+export type PersonaType = 'direct' | 'tiktoker' | 'fashionista' | 'memelord' | 'gamer' | 'bookworm' | 'vsco'; 
